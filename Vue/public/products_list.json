@@ -1,0 +1,85 @@
+[
+    [
+        [
+            "Ping An Currency Fund A",
+            "Currency Fund",
+            12000
+        ],
+        [
+            "Guang Da Currency Fund B",
+            "Currency Fund",
+            16500
+        ],
+        [
+            "Zhao Shang Currency Fund C",
+            "Currency Fund",
+            20000
+        ]
+    ],
+    [
+        [
+            "Gong Shang Medical Insurance A",
+            "Medical Insurance",
+            35000
+        ],
+        [
+            "Zhong Xin Medical Insurance B",
+            "Medical Insurance",
+            39000
+        ],
+        [
+            "Ping An Medical Insurance C",
+            "Medical Insurance",
+            44000
+        ],
+        [
+            "Hua Xia Accidental Insurance A",
+            "Accidental Insurance",
+            36000
+        ],
+        [
+            "Jian She Accidental Insurance B",
+            "Accidental Insurance",
+            39000
+        ],
+        [
+            "Nong Ye Accidental Insurance C",
+            "Accidental Insurance",
+            42000
+        ]
+    ],
+    [
+        [
+            "Gong Shang Stock Fund A",
+            "Stock Fund",
+            59000
+        ],
+        [
+            "Nong Ye Stock Fund B",
+            "Stock Fund",
+            64000
+        ],
+        [
+            "Guang Da Stock Fund C",
+            "Stock Fund",
+            70000
+        ]
+    ],
+    [
+        [
+            "Xing Ye Debenture A",
+            "Debenture",
+            80000
+        ],
+        [
+            "Chong Qing Debenture B",
+            "Debenture",
+            84000
+        ],
+        [
+            "Zhong Xin Debenture C",
+            "Debenture",
+            89000
+        ]
+    ]
+]
