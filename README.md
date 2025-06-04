@@ -2,7 +2,7 @@
 
 A chatbot app demo for recommend bank products. Basically it contains 3 parts:
 
-· Back-end LLM fine-tuned. (Folder: back-end. Developed on Jupiter Hub + VSCode)
+· Back-end LLM fine-tuned. (Folder: back-end. The basemodel was finetuned on Jupiter Hub with GPU NVIDIA A40, and later loaded and adopted on VSCode)
 
 · Front-end user interface on personal computer,implemented by Vue3 framework. (Folder: Vue. Developed on VSCode)
 
@@ -23,7 +23,7 @@ Panels and chatting box displayed for the user to view and type things to intera
 
 ### PC terminal
 
-Based on Vue3 (via VSCode), the layout and components referred the project [Tsk-Andrey078/gptVue](https://github.com/Tsk-Andrey078/gptVue).
+Based on Vue3, the layout and components referred the project [Tsk-Andrey078/gptVue](https://github.com/Tsk-Andrey078/gptVue).
 
 More information about how to implement Vue could be find in the relevant parts in both the reference and this repository.
 
