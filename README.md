@@ -36,7 +36,7 @@ Here are explanatory video for how this terminal work,
 
 · After launching LLM as back-end:
 
-
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Vue_with_LLM.gif)
 
 ### Android phone terminal
 
@@ -45,3 +45,4 @@ Here only key codes for realizing the personalized app page is provided, you can
 
 Here are explanatory video showing the screen of phone app working:
 
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Android_with_LLM.gif)
