@@ -26,22 +26,22 @@ Panels and chatting box displayed for the user to view and type things to intera
 ### PC terminal
 
 Based on Vue3, the layout and components referred the project [Tsk-Andrey078/gptVue](https://github.com/Tsk-Andrey078/gptVue).
-
 More information about how to implement Vue could be find in the relevant parts in both the reference and this repository.
 
 Here are explanatory video for how this terminal work,
 
-· Vue without LLM:
+· How the webpage looks like when only the Vue programs are started without LLM:
+
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Vue_without_LLM.gif)
+
+· After launching LLM as back-end:
 
 
-
-· Vue with LLM:
 
 ### Android phone terminal
 
 (Could work on phone with Harmony OS as well.)
 Here only key codes for realizing the personalized app page is provided, you can set up new project via Android studio and refer these code to make changes on your own.
 
-Here are explanatory video:
-
+Here are explanatory video showing the screen of phone app working:
 
