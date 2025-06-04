@@ -197,7 +197,7 @@ public class MainActivity extends AppCompatActivity {
                 textView.setText(field);
                 textView.setPadding(8, 8, 8, 8);
                 TableRow.LayoutParams params = new TableRow.LayoutParams(TableRow.LayoutParams.WRAP_CONTENT, TableRow.LayoutParams.WRAP_CONTENT);
-                params.setMargins(0, 0, 20, 0); // 右边距
+                params.setMargins(0, 0, 20, 0); // right margin
                 textView.setLayoutParams(params);
                 row.addView(textView);
             }
