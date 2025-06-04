@@ -41,3 +41,7 @@ Here are explanatory video for how this terminal work,
 
 (Could work on phone with Harmony OS as well.)
 Here only key codes for realizing the personalized app page is provided, you can set up new project via Android studio and refer these code to make changes on your own.
+
+Here are explanatory video:
+
+
