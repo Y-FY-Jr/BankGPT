@@ -2,11 +2,11 @@
 
 A chatbot app demo for recommend bank products. Basically it contains 3 parts:
 
-· Back-end LLM fine-tuned. (Folder: back-end. The basemodel was finetuned on **Jupiter Hub** with GPU NVIDIA A40, and later loaded and adopted on **VSCode**)
+· Back-end LLM fine-tuned. (Folder: back-end. The basemodel was finetuned on **Jupiter Hub** cloud platform with GPU NVIDIA A40, and later loaded and adopted on **VSCode**)
 
 · Front-end user interface on personal computer, implemented by **Vue3** framework. (Folder: **Vue**. Developed on **VSCode**)
 
-· Front-end user interface on smart phone, implemented by **Android** application framework. (Folder: **PhoneInterface**. Developed on Android Studio)
+· Front-end user interface on smart phone, implemented by **Android** application framework. (Folder: **PhoneInterface**. Developed on **Android Studio**)
 
 ## Back-end
 
