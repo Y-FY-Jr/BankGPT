@@ -32,11 +32,11 @@ Here are explanatory video for how this terminal work,
 
 · How the webpage looks like when only the Vue programs are started without LLM:
 
-![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Vue_without_LLM.gif)
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/assets/Vue_without_LLM.gif)
 
 · After launching LLM as back-end:
 
-![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Vue_with_LLM.gif)
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/assets/Vue_with_LLM.gif)
 
 ### Android phone terminal
 
@@ -45,4 +45,4 @@ Here only key codes for realizing the personalized app page is provided, you can
 
 Here are explanatory video showing the screen of phone app working:
 
-![](https://github.com/Y-FY-Jr/BankGPT/raw/main/Android_with_LLM.gif)
+![](https://github.com/Y-FY-Jr/BankGPT/raw/main/assets/Android_with_LLM.gif)
